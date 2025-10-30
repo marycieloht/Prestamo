@@ -1,0 +1,16 @@
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\obj\Debug\net8.0-windows\SimuladorPrestamo.FormSimulaPrestamo.resources
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\obj\Debug\net8.0-windows\Consulta Cuota de Prestamo.csproj.GenerateResource.cache
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\obj\Debug\net8.0-windows\Consulta Cuota de Prestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\obj\Debug\net8.0-windows\Consulta Cuota de Prestamo.AssemblyInfoInputs.cache
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\obj\Debug\net8.0-windows\Consulta Cuota de Prestamo.AssemblyInfo.cs
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\obj\Debug\net8.0-windows\Consulta Cuota de Prestamo.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\bin\Debug\net8.0-windows\Consulta Cuota de Prestamo.exe
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\bin\Debug\net8.0-windows\Consulta Cuota de Prestamo.deps.json
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\bin\Debug\net8.0-windows\Consulta Cuota de Prestamo.runtimeconfig.json
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\bin\Debug\net8.0-windows\Consulta Cuota de Prestamo.dll
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\bin\Debug\net8.0-windows\Consulta Cuota de Prestamo.pdb
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\obj\Debug\net8.0-windows\Consulta Cuota de Prestamo.dll
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\obj\Debug\net8.0-windows\refint\Consulta Cuota de Prestamo.dll
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\obj\Debug\net8.0-windows\Consulta Cuota de Prestamo.pdb
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\obj\Debug\net8.0-windows\Consulta Cuota de Prestamo.genruntimeconfig.cache
+C:\Users\laboratorio_BV\Documents\Consulta Cuota de Prestamo\obj\Debug\net8.0-windows\ref\Consulta Cuota de Prestamo.dll
